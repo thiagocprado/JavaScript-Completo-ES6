@@ -1,0 +1,6 @@
+O JavaScript é uma linguagem de programação interpretada, ou seja, ela roda instantaneamente no browser, ela não necessita de ser compilada.
+
+Front: Manipulação do DOM e comunicação assíncrona com o backend. (comunicação através da API)
+Back: comunicação com banco de dados, manipulação de arquivos e mais (NodeJS)
+
+
